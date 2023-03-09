@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1658579749 source:c:\users\eyada\onedrive - alexandria university\desktop\programming project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"task2.h"
+	"task3.h"
+	"task4.h"
+	"task5.h"
+	"task6.h"
+	"task7.h"
+	"task8.h"
+
+1641752237 c:\users\eyada\onedrive - alexandria university\desktop\programming project\task1.h
+	"struct.h"
+
+1641983595 c:\users\eyada\onedrive - alexandria university\desktop\programming project\struct.h
+	<string.h>
+	<math.h>
+	<conio.h>
+
+1641941361 c:\users\eyada\onedrive - alexandria university\desktop\programming project\task6.h
+	"struct.h"
+
+1658579749 c:\users\eyada\onedrive - alexandria university\desktop\programming project\task2.h
+	"struct.h"
+	"menu.h"
+
+1641983714 c:\users\eyada\onedrive - alexandria university\desktop\programming project\task3.h
+	"struct.h"
+
+1641904670 c:\users\eyada\onedrive - alexandria university\desktop\programming project\task4.h
+	"struct.h"
+
+1641985273 c:\users\eyada\onedrive - alexandria university\desktop\programming project\task5.h
+	"struct.h"
+
+1641938114 c:\users\eyada\onedrive - alexandria university\desktop\programming project\task7.h
+	"struct.h"
+
+1641584937 c:\users\eyada\onedrive - alexandria university\desktop\programming project\task8.h
+	"struct.h"
+
+1641982774 c:\users\eyada\onedrive - alexandria university\desktop\programming project\menu.h
+	"struct.h"
+
